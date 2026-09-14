@@ -1,0 +1,55 @@
+# 广告语文案库 · Ad Copy
+
+<a id="chinese"></a>
+
+**中文** | [English](#english)
+
+主广告语与各场景推广文案统一收录在本页，方便复制取用。
+
+## 主广告语
+
+- 短版（10 字以内）：待补充
+- 长版（一句话）：待补充
+- 备选方案：待补充
+
+## 场景化文案
+
+### 朋友圈
+
+> 待补充
+
+### 社群 / 微信群
+
+> 待补充
+
+### 海报 / 宣传单
+
+> 待补充
+
+---
+
+<a id="english"></a>
+
+**English** | [中文](#chinese)
+
+# Ad Copy
+
+## Main Slogans
+
+- Short version: TODO
+- Long version: TODO
+- Alternatives: TODO
+
+## Scenario Copy
+
+### WeChat Moments
+
+> TODO
+
+### Community Groups
+
+> TODO
+
+### Posters
+
+> TODO
