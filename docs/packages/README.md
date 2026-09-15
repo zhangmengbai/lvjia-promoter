@@ -1,8 +1,4 @@
-# 套餐总览 · Packages
-
-<a id="chinese"></a>
-
-**中文** | [English](#english)
+# 套餐总览
 
 ## 套餐对比
 
@@ -21,25 +17,3 @@
 <!-- 一段简短的选购建议，帮助用户对号入座 -->
 
 待补充。
-
----
-
-<a id="english"></a>
-
-**English** | [中文](#chinese)
-
-# Packages
-
-## Comparison
-
-| | Basic | Standard | Premium |
-| --- | ----- | -------- | ------- |
-| Price | TODO | TODO | TODO |
-| Validity | TODO | TODO | TODO |
-| Key Benefits | TODO | TODO | TODO |
-| Best For | TODO | TODO | TODO |
-| Details | [Basic](package-basic.md#english) | [Standard](package-standard.md#english) | [Premium](package-premium.md#english) |
-
-## How to Choose
-
-TODO.

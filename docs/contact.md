@@ -1,8 +1,4 @@
-# 联系我们 · Contact
-
-<a id="chinese"></a>
-
-**中文** | [English](#english)
+# 联系我们
 
 ## 扫码咨询
 
@@ -32,32 +28,3 @@
 2. 第一步：待补充
 3. 第二步：待补充
 4. 完成购买：待补充
-
----
-
-<a id="english"></a>
-
-**English** | [中文](#chinese)
-
-# Contact Us
-
-## Scan to Chat
-
-<!-- QR code placeholders: put images under assets/qrcode/ and uncomment -->
-
-- WeChat: `../assets/qrcode/wechat.png`
-- Official Account: `../assets/qrcode/official-account.png`
-- Mini Program: `../assets/qrcode/mini-program.png`
-
-## Contact Info
-
-- WeChat: TODO
-- Phone: TODO
-- Email: TODO
-
-## How to Purchase
-
-1. Scan the QR code to add customer service (TODO)
-2. Step 1: TODO
-3. Step 2: TODO
-4. Complete the purchase: TODO

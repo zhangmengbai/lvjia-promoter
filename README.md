@@ -1,8 +1,6 @@
 # 旅居卡 · LvJia Card
 
-<a id="chinese"></a>
-
-**中文** | [English](#english)
+[English](README.en.md)
 
 <!-- 品牌头图占位：主视觉图放入 assets/images/banner.jpg 后，取消下行注释 -->
 <!-- ![品牌头图](assets/images/banner.jpg) -->
@@ -46,37 +44,3 @@
 ---
 
 © 2026 旅居卡（版权信息占位）
-
----
-
-<a id="english"></a>
-
-**English** | [中文](#chinese)
-
-# LvJia Card
-
-> **Main slogan (TODO):** One sentence that best sells the card.
-
-## Key Highlights
-
-- **Highlight 1 (TODO):** One-line description.
-- **Highlight 2 (TODO):** One-line description.
-- **Highlight 3 (TODO):** One-line description.
-
-## Packages
-
-| Package | Price | Best For | Details |
-| ------- | ----- | -------- | ------- |
-| Basic | TODO | TODO | [View](docs/packages/package-basic.md#english) |
-| Standard | TODO | TODO | [View](docs/packages/package-standard.md#english) |
-| Premium | TODO | TODO | [View](docs/packages/package-premium.md#english) |
-
-See the [full package comparison](docs/packages/README.md#english).
-
-## Contact / Purchase
-
-Scan the QR code, or visit the [contact page](docs/contact.md#english).
-
----
-
-© 2026 LvJia Card (copyright placeholder)

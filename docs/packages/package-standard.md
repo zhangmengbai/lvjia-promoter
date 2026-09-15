@@ -1,8 +1,4 @@
-# 标准版套餐 · Standard
-
-<a id="chinese"></a>
-
-**中文** | [English](#english)
+# 标准版套餐
 
 > 套餐定位一句话（待补充）。
 
@@ -22,29 +18,3 @@
 
 <!-- 图片占位：放入 assets/images/ 后取消注释，如 -->
 <!-- ![标准版介绍图](../../assets/images/package-standard-01.jpg) -->
-
----
-
-<a id="english"></a>
-
-**English** | [中文](#chinese)
-
-# Standard Package
-
-> One-line positioning (TODO).
-
-**Price:** TODO
-
-## Benefits
-
-- [ ] Benefit 1 (TODO)
-- [ ] Benefit 2 (TODO)
-- [ ] Benefit 3 (TODO)
-
-## Best For
-
-TODO.
-
-## Gallery
-
-<!-- Image placeholder: e.g. ![standard](../../assets/images/package-standard-01.jpg) -->
