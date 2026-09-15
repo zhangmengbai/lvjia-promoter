@@ -26,6 +26,12 @@ Scan the QR code, or visit the [contact page](docs/contact.md).
 
 ---
 
+## Keywords
+
+travel residence · long-stay vacation · snowbird retirement · senior travel · wellness retreat · retirement living · extended stay · resort membership · seasonal living · healthy aging · winter escape · summer retreat · slow living · travel card · retire in China · health tourism · vacation membership · senior living
+
+---
+
 > Note: The detailed content is maintained in Chinese by default. See the [中文版](README.md) for the full version.
 
 © 2026 LvJia Card (copyright placeholder)
