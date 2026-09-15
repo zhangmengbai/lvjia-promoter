@@ -33,7 +33,7 @@
 <!-- 推广二维码占位：二维码图片放入 assets/qrcode/ 后，取消下行注释并替换文件名 -->
 <!-- ![推广二维码](assets/qrcode/wechat.png) -->
 
-扫码添加微信咨询，或查看 [联系方式与购买流程](docs/contact.md)。
+扫码添加微信咨询，或查看 [扫码咨询与购买流程](docs/contact.md)。
 
 ## 更多内容
 
