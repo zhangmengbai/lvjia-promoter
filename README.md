@@ -16,12 +16,10 @@
 - 获得 1350 旅分
 - 附赠 10 张清洁券（每张价值 50 旅分）
 
-完整说明见 [套餐详情](docs/packages/README.md)。
-
 ## 立即购买
 
 <div align="center">
   <img src="assets/images/share-code-118.png" width="240" alt="微信小程序码，扫码立即购买">
 </div>
 
-微信扫码立即购买，或查看 [购买流程](docs/contact.md)。
+微信扫码立即购买。
