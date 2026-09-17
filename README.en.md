@@ -1,37 +1,18 @@
-# LvJia Card
+# Super-Value Travel Residence Card
 
 [中文](README.md) | English
 
-> **Main slogan (TODO):** One sentence that best sells the card.
+> **From ¥25 per night — unbeatable value**
 
-## Key Highlights
+## Package
 
-- **Highlight 1 (TODO):** One-line description.
-- **Highlight 2 (TODO):** One-line description.
-- **Highlight 3 (TODO):** One-line description.
+**Super-Value Package: ¥1,350**
 
-## Packages
+- 1,350 travel points
+- 10 complimentary cleaning vouchers (50 points each)
 
-| Package | Price | Best For | Details |
-| ------- | ----- | -------- | ------- |
-| Basic | TODO | TODO | [View](docs/packages/package-basic.md) |
-| Standard | TODO | TODO | [View](docs/packages/package-standard.md) |
-| Premium | TODO | TODO | [View](docs/packages/package-premium.md) |
+See the [package details](docs/packages/README.md).
 
-See the [full package comparison](docs/packages/README.md).
+## Buy Now
 
-## Contact / Purchase
-
-Scan the QR code, or visit the [contact page](docs/contact.md).
-
----
-
-## Keywords
-
-travel residence · long-stay vacation · snowbird retirement · senior travel · wellness retreat · retirement living · extended stay · resort membership · seasonal living · healthy aging · winter escape · summer retreat · slow living · travel card · retire in China · health tourism · vacation membership · senior living
-
----
-
-> Note: The detailed content is maintained in Chinese by default. See the [中文版](README.md) for the full version.
-
-© 2026 LvJia Card (copyright placeholder)
+Scan the QR code to purchase, or view the [purchase guide](docs/contact.md).
