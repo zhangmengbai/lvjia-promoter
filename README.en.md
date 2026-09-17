@@ -15,4 +15,8 @@ See the [package details](docs/packages/README.md).
 
 ## Buy Now
 
-Scan the QR code to purchase, or view the [purchase guide](docs/contact.md).
+<div align="center">
+  <img src="assets/images/share-code-118.png" width="240" alt="WeChat Mini Program code to purchase">
+</div>
+
+Scan with WeChat to purchase, or view the [purchase guide](docs/contact.md).

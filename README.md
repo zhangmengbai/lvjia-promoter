@@ -20,7 +20,8 @@
 
 ## 立即购买
 
-<!-- 推广二维码占位：二维码图片放入 assets/qrcode/ 后，取消下行注释并替换文件名 -->
-<!-- ![推广二维码](assets/qrcode/wechat.png) -->
+<div align="center">
+  <img src="assets/images/share-code-118.png" width="240" alt="微信小程序码，扫码立即购买">
+</div>
 
-扫码立即购买，或查看 [购买流程](docs/contact.md)。
+微信扫码立即购买，或查看 [购买流程](docs/contact.md)。
